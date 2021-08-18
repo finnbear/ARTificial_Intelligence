@@ -10,7 +10,9 @@ Cargo.lock
 **/*.rs.bk
 
 output/*
-*.png
+cool/*.png
+output/*.png
+good/*.png
 *.odp
 *.odp#
 *.xml
